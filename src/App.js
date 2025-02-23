@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.jsdsads</code> and save to reload.
+          Edit <code>Main-branch</code> and save to reload.
         </p>
         <a
           className="App-link"
