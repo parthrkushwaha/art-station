@@ -1,0 +1,20 @@
+/* .mx-auto{
+    height: 100px;
+} */
+.object-cover{
+    width: 415px;
+    height: 321px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin-left: 65px; */
+}
+.p-4{
+    width: 380px;
+}
+.max-w-1xl{
+    height: 100px;
+}
+.image{
+    width: 10px;
+}
