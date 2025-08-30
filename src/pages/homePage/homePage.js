@@ -5,7 +5,7 @@ import ProductList from '../../composites/productList/ProductList'
 function HomePage() {
     return (
         <div>
-            <h1 className="text-center mt-5">Welcome to Art-station</h1>
+            <h1 className="text-center mt-5">Welcome to My Art-station</h1>
             <ProductList />
             {/* <Login /> */}
         </div>
